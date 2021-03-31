@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>EvolveMedia Landing Page Desktop</title>
-<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="css/dist/EvolveMedia_Landing_Page_Desktop.css"/>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="css/backup-css.css"/>
 <script type="text/javascript" src="js/app.js" id="applicationScript"></script>
 </head>
 <body>
