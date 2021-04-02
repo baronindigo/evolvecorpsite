@@ -1,0 +1,43 @@
+.our-brands-section {
+	background-color: $color-grey;
+	text-align: center;
+
+	h2.headline {
+		color: $color-main;
+	}
+
+	.our-brands-logos {
+		display: inline-grid;
+		grid-template-columns: 100%;
+		grid-template-row: auto;
+
+		@include tablet {
+			grid-template-columns: 50% 50%;
+			grid-template-row: auto;	
+		}
+
+		@include desktop {
+			grid-template-columns: 25% 25% 25% 25%;
+			grid-template-row: auto;	
+		}
+	}
+
+	.logo {
+		display: inline-block;
+		text-align: center;
+		margin: 10px;
+		width: 300px;
+		height: auto;
+		vertical-align: top;
+
+	}
+
+	.button {
+		@include button;
+	}
+
+	.learn-more-btn {
+		text-align: center;
+		width: 100%;
+	}
+}

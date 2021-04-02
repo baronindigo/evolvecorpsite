@@ -1,4 +1,11 @@
-body {
-	background-color: red;
-	width: 100%;
-}
+// Project configuration
+@import "config";
+@import "defines";
+@import "utils";
+
+// Main Folders
+@import "base/all";
+@import "commons/all";
+@import "layout/all";
+@import "module/all";
+@import "pages/all";

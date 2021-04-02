@@ -1,0 +1,32 @@
+$color-footer-main    : #04538e;
+$color-footer-submain : #1163a4;
+
+footer {
+	
+	text-align: center;
+	background: $color-main;
+	background: linear-gradient(180deg, $color-footer-main 0%, $color-footer-submain 35%);
+	min-height: 250px;
+
+	.evolve-logo {
+		display: inline-block;
+		width: 300px;
+
+		svg {
+			width: 33%;
+		}
+	}
+
+	.copyright {
+		color: $color-submain;
+	}
+
+	a {
+		color: $color-white;
+		text-decoration: none;
+
+		&:hover {
+			color: $color-white;	
+		}
+	}
+}

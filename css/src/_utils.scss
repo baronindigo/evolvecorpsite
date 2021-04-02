@@ -1,0 +1,29 @@
+@mixin mobile {
+  @media (max-width: #{$tablet-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin button {
+	border-radius: 30px;
+	background-color: $color-main;
+	color: $color-white;
+	display: inline-block;
+	margin: 20px 0;
+	padding: 20px 30px;
+	text-align: center;
+	text-decoration: none;
+	width: auto;
+}
