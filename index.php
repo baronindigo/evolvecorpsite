@@ -32,21 +32,22 @@
 <link rel="apple-touch-icon-precomposed" href="https://www.evolvemediallc.com/wp-content/themes/evolve-media/apple-icon-precomposed.png">
 
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
-<script type="text/javascript" src="js/app.js" id="applicationScript"></script>
+<script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+<script src="js/our_history.js"></script>
 </head>
-<body>
+<body onload="javascript:init();">
 
 <div class="wrapper">
 	
 	<?php include_once "header.html"; ?>
 
-	<?php //include_once "CP.html"; ?>
+	<?php include_once "CP.html"; ?>
 
 	<?php include_once "about-us.html"; ?>
 
 	<?php include_once "our-brands.php"; ?>
 
-	<?php //include_once "our-history.html"; ?>
+	<?php include_once "our_history.html"; ?>
 
 	<?php include_once "our-leadership.html"; ?>
 
