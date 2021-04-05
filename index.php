@@ -30,7 +30,8 @@
 <link rel="shortcut icon" href="https://www.evolvemediallc.com/wp-content/themes/evolve-media/favicon.ico">
 <link rel="apple-touch-icon" href="https://www.evolvemediallc.com/wp-content/themes/evolve-media/apple-icon.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.evolvemediallc.com/wp-content/themes/evolve-media/apple-icon-precomposed.png">
-
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
 <script type="text/javascript" src="js/app.js" id="applicationScript"></script>
 </head>
