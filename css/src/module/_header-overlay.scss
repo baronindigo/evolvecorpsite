@@ -28,9 +28,9 @@
 .overlay-menu {
   top: 0;
   right: 0;
+  padding: 40px;
   width: calc(100% - 80px);
   height: calc(100% - 80px);
-  padding: 40px;
   background: rgba($color-black, 0.5);
   position: absolute;
   font-size: 30px;
