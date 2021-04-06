@@ -2,12 +2,12 @@ $color-header-main: #1a72b9;
 $color-header-submain: #1569ab;
 
 header {
-  background: linear-gradient(135deg, $color-submain 0%, #00538f 50%);
-  height: 60px;
-  position: fixed;
-  width: 100vw;
   top: 0;
   left: 0;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  background: linear-gradient(135deg, $color-submain 0%, #00538f 50%);
 
   @include tablet {
     height: 80px;
@@ -57,7 +57,7 @@ header {
       transition: all 0.3s ease;
     }
 
-    &.active {
+    .active & {
       &:before {
         top: 10px;
         transform: rotate(45deg);
