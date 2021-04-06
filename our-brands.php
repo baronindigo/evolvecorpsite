@@ -101,7 +101,7 @@
 	</div>
 	
 	<div class="learn-more-btn">
-		<a class="button" href="#">LEARN MORE</a>
+		<a class="button" href="/evolve-brands.php">LEARN MORE</a>
 	</div>
 
 </section>
