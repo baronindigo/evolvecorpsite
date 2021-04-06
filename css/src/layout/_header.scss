@@ -1,8 +1,8 @@
-$color-header-main    : #1a72b9;
-$color-header-submain : #1569ab;
+$color-header-main: #1a72b9;
+$color-header-submain: #1569ab;
 
 header {
-	background: $color-header-main;
-	background: linear-gradient(180deg, $color-header-main 0%, $color-header-submain 35%);
-	min-height: 80px;
+  background: $color-header-main;
+  background: linear-gradient(135deg, $color-submain 0%, $color-main 50%);
+  min-height: 80px;
 }
