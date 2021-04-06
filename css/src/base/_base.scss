@@ -21,3 +21,7 @@ h4 {
   line-height: 60px;
   font-weight: 400;
 }
+
+.button {
+  @include button;
+}
