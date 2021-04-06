@@ -52,7 +52,7 @@
 
 	<?php include_once "our-leadership.html"; ?>
 
-	<?php //include_once "contact-us.html"; ?>
+	<?php include_once "contact-us.html"; ?>
 
 	<?php include_once "get-in-touch.html"; ?>
 
