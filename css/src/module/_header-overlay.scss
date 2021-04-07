@@ -12,7 +12,7 @@
     height: calc(100vh - 80px);
   }
 
-  .active & {
+  .menu-active & {
     left: 0;
   }
 }
@@ -47,6 +47,7 @@
   ul {
     margin: 0;
     padding: 0;
+    list-style: none;
   }
 
   a {
@@ -58,9 +59,4 @@
       color: $color-submain;
     }
   }
-}
-
-.our-history-section,
-.our-leadership-section {
-  display: none;
 }
