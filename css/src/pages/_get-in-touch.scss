@@ -1,27 +1,31 @@
 .get-in-touch-section {
-  text-align: center;
+	text-align: center;
 
-  .info-container {
-    display: inline-grid;
-    grid-template-columns: 100%;
-    grid-template-row: auto;
+	.info-container {
+		display: inline-grid;
+		grid-template-columns: 100%;
+		grid-template-row: auto;
 
-    @include tablet {
-      grid-template-columns: 50% 50%;
-      grid-template-row: auto;
-    }
+		@include tablet {
+			grid-template-columns: 50% 50%;
+			grid-template-row: auto;
+		}
 
-    @include desktop {
-      grid-template-columns: 25% 25% 25% 25%;
-      grid-template-row: auto;
-    }
+		@include desktop {
+			grid-template-columns: 25% 25% 25% 25%;
+			grid-template-row: auto;
+		}
 
-    .info {
-      margin: 5%;
-    }
+		.info {
+			margin: 5%;
 
-    .button {
-      @include button;
-    }
-  }
+			.description {
+				min-height: 48px;
+			}
+		}
+
+		.button {
+			@include button;
+		}
+	}
 }
