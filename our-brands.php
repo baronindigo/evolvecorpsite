@@ -1,4 +1,4 @@
-<section class="our-brands-section">
+<section id="our-brands" class="our-brands-section">
 
 	<h2 class="headline">Our Brands</h2>
 	
