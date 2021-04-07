@@ -1,32 +1,77 @@
-$color-footer-main    : #04538e;
-$color-footer-submain : #1163a4;
-
 footer {
-	
-	text-align: center;
-	background: $color-main;
-	background: linear-gradient(180deg, $color-footer-main 0%, $color-footer-submain 35%);
-	min-height: 250px;
+  text-align: center;
+  background: linear-gradient(135deg, $color-submain 0%, #00538f 50%);
+  height: 150px;
 
-	.evolve-logo {
-		display: inline-block;
-		width: 300px;
+  @include tablet {
+    height: 250px;
+  }
+}
 
-		svg {
-			width: 33%;
-		}
-	}
+.footer-container {
+  padding: 20px 0 10px;
+  height: calc(100% - 30px);
+  background-image: url("../../images/header-bars-left.svg"),
+    url("../../images/header-bars-right.svg");
+  background-position: left top, right bottom;
+  background-repeat: no-repeat;
+  background-size: auto 100px;
 
-	.copyright {
-		color: $color-submain;
-	}
+  @include tablet {
+    padding: 40px 0 30px;
+    height: calc(100% - 70px);
+  }
+}
 
-	a {
-		color: $color-white;
-		text-decoration: none;
+.footer-logo {
+  height: 45px;
 
-		&:hover {
-			color: $color-white;	
-		}
-	}
+  @include tablet {
+    height: 60px;
+  }
+}
+
+.footer-links {
+  font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+  margin: 10px auto 0;
+  align-items: center;
+  width: calc(100% - 20px);
+  justify-content: space-around;
+
+  @include tablet {
+    font-size: 16px;
+    margin: 35px auto 10px;
+  }
+
+  a {
+    margin: 4px;
+    color: $color-white;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+
+  .linkedin-logo {
+    height: 20px;
+
+    @include tablet {
+      height: 30px;
+    }
+  }
+}
+
+.footer-copyright {
+  margin: 0 auto;
+  font-size: 11px;
+  width: calc(100% - 20px);
+  color: $color-submain;
+
+  @include tablet {
+    font-size: 16px;
+  }
 }
