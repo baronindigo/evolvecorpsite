@@ -1,10 +1,32 @@
 .our-history-section {
+	background: linear-gradient(135deg, $color-submain 0%, #00538f 50%);
+
+	@include tablet {
+		background: transparent;
+	}
+
 	position: relative;
 
-	#animation_container {
-		background-color:rgba(255, 255, 255, 1.00);
-		position: relative !important;
+	.our-history-mobile-container {
+		text-align: center;
 		width: 100%;
+
+		@include tablet {
+			display: none;
+		}
+	}
+
+	#animation_container {
+		display: none;
+
+		@include tablet {
+			background-color:rgba(255, 255, 255, 1.00);
+			display: inline-block;
+			position: relative !important;
+			width: 100%;	
+		}
+
+		
 
 		canvas#canvas {
 			width: 100%;
