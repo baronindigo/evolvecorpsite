@@ -9,8 +9,22 @@
 		}
 
 		.map-mobile {
+			@include tablet {
+				display: none;
+			}
+
+		}
+
+		.map-tablet {
+			@include mobile {
+				display: none;
+			}
 
 			@include tablet {
+				display: inline-block;
+			}
+
+			@include desktop {
 				display: none;
 			}
 
@@ -22,6 +36,10 @@
 			}
 
 			@include tablet {
+				display: none;
+			}
+
+			@include desktop {
 				display: inline-block;
 			}
 		}
