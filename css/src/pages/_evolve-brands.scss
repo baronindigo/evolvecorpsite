@@ -40,3 +40,13 @@
 		}
 	}
 }
+
+.privacy-policy,
+.terms-of-service {
+	padding-top: 25px;
+
+	@include tablet {
+		padding-top: 80px;	
+	}
+
+}

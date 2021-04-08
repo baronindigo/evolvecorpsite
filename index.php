@@ -33,32 +33,31 @@
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
 <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
-<script src="js/main.js"></script>
 <script src="js/our_history.js"></script>
 </head>
 <body onload="javascript:init();">
 
-<div class="wrapper">
-	
-	<?php include_once "header.html"; ?>
+	<div class="wrapper">
+		
+		<?php include_once "header.html"; ?>
 
-	<?php include_once "CP.html"; ?>
+		<?php include_once "CP.html"; ?>
 
-	<?php include_once "about-us.html"; ?>
+		<?php include_once "about-us.html"; ?>
 
-	<?php include_once "our-brands.php"; ?>
+		<?php include_once "our-brands.php"; ?>
 
-	<?php include_once "our_history.html"; ?>
+		<?php include_once "our_history.html"; ?>
 
-	<?php include_once "our-leadership.html"; ?>
+		<?php include_once "our-leadership.html"; ?>
 
-	<?php include_once "contact-us.html"; ?>
+		<?php include_once "contact-us.html"; ?>
 
-	<?php include_once "get-in-touch.html"; ?>
+		<?php include_once "get-in-touch.html"; ?>
 
-	<?php include_once "footer.php"; ?>
-	
-</div>
-
+		<?php include_once "footer.php"; ?>
+		
+	</div>
+	<script src="js/main.js"></script>
 </body>
 </html>

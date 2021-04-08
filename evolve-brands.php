@@ -32,9 +32,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
-<script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
-<script src="js/main.js"></script>
-<script src="js/our_history.js"></script>
 </head>
 <body>
 

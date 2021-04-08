@@ -2,9 +2,9 @@
 	<div class="footer-container">
 		<img class="footer-logo" src="images/evolve-logo-white.svg" alt="Evolve Media LLC logo">
 		<div class="footer-links">
-			<a href="#">PRIVACY POLICY</a>
-			<a href="#">TERMS OF SERVICE</a>
-			<a href="#">
+			<a href="/privacy-policy.php">PRIVACY POLICY</a>
+			<a href="/terms-of-service.php">TERMS OF SERVICE</a>
+			<a href="https://www.linkedin.com/company/evolve-media-llc">
 				<img  class="linkedin-logo" src="images/footer/linkedin-icon.svg" alt="Linkedin link">
 			</a>
 		</div>
