@@ -82,18 +82,18 @@
 			</a>
 		</div>
 
-		<div class="logo musicfeeds-logo">
+		<div class="logo mf-logo">
 			<a href="https://musicfeeds.com.au" target="_blank">
 				<img src="images/our-brands/musicfeeds_logo_color.svg" alt="MusicFeeds Logo">
 			</a>
 		</div>
 
-		<div class="totalbeauty-logo">
+		<div class="logo tb-logo">
 			<a href="https://totalbeauty.com" target="_blank">
 				<img src="images/our-brands/totalbeauty_logo_color.svg" alt="TotalBeauty Logo">
 			</a>
 		</div>
-		<div class="wrestlezone-logo">
+		<div class="logo wz-logo">
 			<a href="https://mandatory.com/wrestlezone" target="_blank">
 				<img src="images/our-brands/wrestlezone_logo_color.svg" alt="Wrestlezone Logo">
 			</a>
