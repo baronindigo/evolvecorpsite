@@ -293,6 +293,10 @@
 				<p>No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Company’s failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.</p>
 			</div>
 
+			<div class="cta-btn">
+				<a class="button" href="/">Return to Home</a>
+			</div>
+
 		</section>
 
 	</div>

@@ -278,6 +278,10 @@
 
 			</div>
 
+			<div class="cta-btn">
+				<a class="button" href="/">Return to Home</a>
+			</div>
+
 		</section>
 
 	</div>
