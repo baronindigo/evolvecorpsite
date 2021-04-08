@@ -1,31 +1,76 @@
 .get-in-touch-section {
-	text-align: center;
+  text-align: center;
 
-	.info-container {
-		display: inline-grid;
-		grid-template-columns: 100%;
-		grid-template-row: auto;
+  h2 {
+    @extend h3;
+  }
 
-		@include tablet {
-			grid-template-columns: 50% 50%;
-			grid-template-row: auto;
-		}
+  .info-container {
+    display: inline-grid;
+    grid-template-columns: 100%;
+    grid-template-row: auto;
 
-		@include desktop {
-			grid-template-columns: 25% 25% 25% 25%;
-			grid-template-row: auto;
-		}
+    @include tablet {
+      grid-template-columns: 50% 50%;
+      grid-template-row: auto;
+    }
 
-		.info {
-			margin: 5%;
+    @include desktop {
+      grid-template-columns: 25% 25% 25% 25%;
+      grid-template-row: auto;
+      min-width: 1280px;
+    }
 
-			.description {
-				min-height: 48px;
-			}
-		}
+    .info {
+      padding: 5%;
+      position: relative;
 
-		.button {
-			@include button;
-		}
-	}
+      &:not(:last-of-type) {
+        &:after {
+          content: "";
+          bottom: 0;
+          left: 25%;
+          width: 50%;
+          height: 1px;
+          display: block;
+          position: absolute;
+          background: $color-dark-grey;
+
+          @include tablet {
+            left: 100%;
+            width: 1px;
+            height: 76%;
+            bottom: 12%;
+            display: none;
+          }
+
+          @include desktop {
+            display: block;
+          }
+        }
+
+        &:nth-of-type(odd) {
+          &:after {
+            display: block;
+          }
+        }
+      }
+
+      @include desktop {
+        padding: 10%;
+      }
+
+      .title {
+        color: $color-main;
+      }
+
+      .description {
+        min-height: 48px;
+      }
+    }
+
+    .button {
+      @include button;
+    }
+  }
 }
