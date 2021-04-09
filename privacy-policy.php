@@ -39,7 +39,7 @@
 	
 	<header>
 		<div class="header-container">
-			<img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo">
+			<a href="/"><img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo"></a>
 		</div>
 	</header>
 
