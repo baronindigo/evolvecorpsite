@@ -15,7 +15,16 @@
 
   .brands-container {
     .brand {
-      margin-bottom: 40px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: calc(100% - 50px);
+      margin: 0 auto 40px;
+
+      @include tablet {
+        flex-wrap: nowrap;
+        margin-bottom: 100px;
+      }
 
       .brand-logo {
         display: inline-block;
@@ -24,19 +33,49 @@
         @include tablet {
           width: 30%;
           max-width: 400px;
-          padding-right: 20px;
+          text-align: right;
+          padding-right: 60px;
           border-right: 1px solid $color-dark-grey;
         }
 
         img {
-          width: 100%;
+          height: 50px;
+          max-width: 80%;
+          margin-bottom: 30px;
+
+          @include tablet {
+            height: 90px;
+            max-width: 90%;
+            margin-bottom: 0;
+          }
         }
       }
 
       .brand-description {
-        display: inline-block;
-        padding-left: 1%;
-        width: 50%;
+        max-width: 930px;
+        text-align: left;
+
+        @include tablet {
+          font-size: 24px;
+          line-height: 40px;
+          width: 50%;
+          padding-left: 60px;
+        }
+      }
+
+      &:not(:nth-last-of-type(2)) {
+        &:after {
+          display: block;
+          content: "";
+          width: 60%;
+          height: 1px;
+          margin: 60px auto 0;
+          background: $color-dark-grey;
+
+          @include tablet {
+            display: none;
+          }
+        }
       }
     }
   }
