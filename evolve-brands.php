@@ -40,8 +40,21 @@
 	<header>
 		<div class="header-container">
 			<img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo">
-			<div class="burger">
+			<div class="burger" onclick="burger_menu()">
 				<div class="lines"></div>
+			</div>
+		</div>
+		
+		<div class="overlay-header">
+			<div class="overlay-background"></div>
+			<div class="overlay-menu">
+				<ul>
+					<li><a class="home" href="/#">Home</a></li>
+					<li><a class="our-brands" href="/#our-brands">Our Brands</a></li>
+					<li><a class="our-history" href="/#our-history">Our History</a></li>
+					<li><a class="our-leadership" href="/#our-leadership">Our Leadership</a></li>
+					<li><a class="contact-us" href="/#contact-us">Contact Us</a></li>
+				</ul>
 			</div>
 		</div>
 	</header>
@@ -59,7 +72,11 @@
 				<div class="brand-description">ComingSoon editors take you beyond the reel, providing on-set reporting, interviews with award-winning directors, and ear-to-street entertainment nes and rumors. From blockbusters to indie flicks, nostalgic classics to horror, streaming and much more - we've seen it all. Let our experts help you choose what to watch</div>
 			</div>
 
-
+			<div class="brand">
+				<div class="brand-logo"><img src="/images/our-brands/superherohype_logo_color.svg" /></div>
+				<div class="brand-description">The cape-wearing team of editors at SuperHeroHype aim to provide up-to-the-minute news and an insider look into the universe of comics, superheroes, fantasy, sci-fi, cosplay, and geek culture written by superfans for the highest level of authenticity.</div>
+			</div>
+			
 			<div class="brand">
 				<div class="brand-logo"><img src="/images/our-brands/gamerevolution_logo_color.svg" /></div>
 				<div class="brand-description">GameRevolution seeks to match the high-speed ambitions of the gaming industry with a contemporary voice for a modern audience.</div>
@@ -142,6 +159,6 @@
 	<?php include_once "footer.php"; ?>
 	
 </div>
-
+<script src="js/main.js"></script>
 </body>
 </html>

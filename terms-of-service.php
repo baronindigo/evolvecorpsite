@@ -40,8 +40,21 @@
 	<header>
 		<div class="header-container">
 			<img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo">
-			<div class="burger">
+			<div class="burger" onclick="burger_menu()">
 				<div class="lines"></div>
+			</div>
+		</div>
+		
+		<div class="overlay-header">
+			<div class="overlay-background"></div>
+			<div class="overlay-menu">
+				<ul>
+					<li><a class="home" href="/#">Home</a></li>
+					<li><a class="our-brands" href="/#our-brands">Our Brands</a></li>
+					<li><a class="our-history" href="/#our-history">Our History</a></li>
+					<li><a class="our-leadership" href="/#our-leadership">Our Leadership</a></li>
+					<li><a class="contact-us" href="/#contact-us">Contact Us</a></li>
+				</ul>
 			</div>
 		</div>
 	</header>
@@ -278,6 +291,6 @@
 	<?php include_once "footer.php"; ?>
 	
 </div>
-
+<script src="js/main.js"></script>
 </body>
 </html>
