@@ -53,6 +53,13 @@
         }
       }
 
+      @include tablet {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: flex-start;
+      }
+
       @include desktop {
         padding: 10%;
       }
@@ -63,6 +70,10 @@
 
       .description {
         min-height: 48px;
+      }
+
+      .cta-btn {
+        margin-top: auto;
       }
     }
 
