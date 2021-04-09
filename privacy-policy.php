@@ -55,20 +55,18 @@
 
 				<p>We take your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com.</a></p>
 
-				<p>
-					<ol>
-						<li>Scope</li>
-						<li>What information the Site collects</li>
-						<li>How we use the information that we collect</li>
-						<li>Information sharing</li>
-						<li>Your choices</li>
-						<li>Access</li>
-						<li>Confidentiality and security</li>
-						<li>Children under 13</li>
-						<li>Changes to the privacy policy</li>
-						<li>Questions and suggestions</li>
-					</ol>
-				</p>
+				<ol>
+					<li>Scope</li>
+					<li>What information the Site collects</li>
+					<li>How we use the information that we collect</li>
+					<li>Information sharing</li>
+					<li>Your choices</li>
+					<li>Access</li>
+					<li>Confidentiality and security</li>
+					<li>Children under 13</li>
+					<li>Changes to the privacy policy</li>
+					<li>Questions and suggestions</li>
+				</ol>
 				
 				<h3>1. Scope</h3>
 				<p>
@@ -90,51 +88,43 @@
 					provide information, including:
 				</p>
 
-				<p>
-					<ul>
-						<li> contact information, such as name and email address;</li>
-						<li> username and password;</li>
+				<ul>
+					<li> contact information, such as name and email address;</li>
+					<li> username and password;</li>
 
-						<li> information posted in community discussions and other interactive online
-						features;</li>
-						<li> search queries conducted on the Site; and</li>
-						<li> correspondence you send to us.</li>
-					</ul>
-				</p>
+					<li> information posted in community discussions and other interactive online
+					features;</li>
+					<li> search queries conducted on the Site; and</li>
+					<li> correspondence you send to us.</li>
+				</ul>
 
 				<h4>Information automatically collected when you visit and interact with the Site:</h4>
 				<p>When you visit and interact with the Site, certain information may be collected automatically, including:</p>
-				<p>
-					<ul>
-						<li> your computer’s Internet Protocol (IP) address;</li>
-						<li> your browser type and operating system;</li>
-						<li> the web pages you were visiting immediately before and after you came to the Site;</li>
-						<li> activities within community discussions;</li>
-						<li> web pages and advertisements that you view, and links that you click on, within the Site;</li>
-						<li> your bandwidth speed and information about the software programs that are installed on your computer;</li>
-						<li> aggregated data about email click-through rates and user video viewing;</li>
-						<li> standard server log information; and</li>
-						<li> information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of <a href="https://www.mandatory.com/cookies" target="_blank">cookies and other tracking technologies</a>.</li>
-					</ul>
-				</p>
+				<ul>
+					<li> your computer’s Internet Protocol (IP) address;</li>
+					<li> your browser type and operating system;</li>
+					<li> the web pages you were visiting immediately before and after you came to the Site;</li>
+					<li> activities within community discussions;</li>
+					<li> web pages and advertisements that you view, and links that you click on, within the Site;</li>
+					<li> your bandwidth speed and information about the software programs that are installed on your computer;</li>
+					<li> aggregated data about email click-through rates and user video viewing;</li>
+					<li> standard server log information; and</li>
+					<li> information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of <a href="https://www.mandatory.com/cookies" target="_blank">cookies and other tracking technologies</a>.</li>
+				</ul>
 
 				<h4>Information we collect from other sources:</h4>
 				<p>We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including:</p>
-
-				<p>
-					<ul>
-						<li> if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services; </li>
-						<li> demographic data, such as age range, gender, and interests;</li>
-						<li> advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and</li>
-						<li> unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.</li>
-					</ul>
-				</p>
+				<ul>
+					<li> if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services; </li>
+					<li> demographic data, such as age range, gender, and interests;</li>
+					<li> advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and</li>
+					<li> unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.</li>
+				</ul>
 
 				<p>Please note that the Site may combine the information that we collect with information we obtain from third-party sources.</p>
 
 				<h3>3. How we use the information that we collect</h3>
 				<p>We use the information that we collect for a number of legitimate interests:</p>
-				
 					
 				<h4>Email Communications:</h4>
 				<p>We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners’ products and services, and our email newsletters.</p>
@@ -161,23 +151,21 @@
 				<h3>4. Information sharing</h3>
 				<p>The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:</p>
 				
-				<p>
-					<ul>
-						<li>We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.</li>
+				<ul>
+					<li>We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.</li>
 
-						<li>We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.</li>
+					<li>We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.</li>
 
-						<li>If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.</li>
+					<li>If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.</li>
 
-						<li>We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.</li>
+					<li>We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.</li>
 
-						<li>We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s <a href="https://www.mandatory.com/termsofuse" target="">Terms and Conditions</a>, or as otherwise required by law.</li>
+					<li>We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s <a href="https://www.mandatory.com/termsofuse" target="">Terms and Conditions</a>, or as otherwise required by law.</li>
 
-						<li>We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.</li>
+					<li>We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.</li>
 
-						<li> In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li>
-					</ul>
-				</p>
+					<li> In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li>
+				</ul>
 
 				<p>Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies. Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on <a href="https://www.mandatory.com/cookies" target="_blank">cookies and other tracking technologies</a> and <a href="https://www.mandatory.com/third-party" target="_blank">third-party online advertising</a>.</p>
 
@@ -188,14 +176,12 @@
 				<h4>Cookies and other tracking technologies</h4>
 				<p>Cookies and other tracking technologies may be set and accessed on your computer.<br/> Upon your first visit to the Services, a cookie or local storage will be sent to your computer that uniquely identifies your browser. &quot;Cookies&quot; and local storage are small files containing a string of characters that is sent to your computer&#39;s browser and stored on your device when you visit a website. Many major websites use cookies to provide useful features for their users. Each website can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you reject cookies, you will not be able to take full advantage of our Site. Additionally, if you clear all cookies on your browser at any point after setting your browser to refuse all cookies or indicate when a cookie is being sent, you will have to again reset your browser to refuse all cookies or indicate when a cookie is being sent.</p>
 				
-				<p>
-					Our Site uses the following types of cookies for the following purposes:
-					<ul>
-						<li>Type of Cookie</li>
-						<li>Purpose of Cookie </li>
-						<li>Analytics and Performance Cookies</li>
-					</ul>
-				</p>
+				<p>Our Site uses the following types of cookies for the following purposes:</p>
+				<ul>
+					<li>Type of Cookie</li>
+					<li>Purpose of Cookie </li>
+					<li>Analytics and Performance Cookies</li>
+				</ul>
 
 				<p>Analytics and Performance Cookies are used to collect information about traffic to our Services and how users use our Services. The information gathered does not identify you or any other individual visitor. The information is aggregated and therefore anonymous. It includes the number of visitors to our Services, the websites that referred them to our Services, the pages that they visited on our Services, what time of day they visited our Services, whether they have visited our Services before and other similar anonymous, aggregated information. We use this information to help operate our Services more efficiently, to gather broad demographic information and to monitor the level of activity on our Services.</p>
 

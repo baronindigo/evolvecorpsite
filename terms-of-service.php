@@ -74,18 +74,15 @@
 				<p>To the maximum extent permitted by applicable law, in no event shall Company, its affiliates, directors, employees or its licensors be liable for any direct, indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, that result from the use of, or inability to use, this service. Under no circumstances will Company be responsible for any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the service or your account or the information contained therein.</p>
 
 				<p>To the maximum extent permitted by applicable law, Company assumes no liability or responsibility for any:</p>
-
-				<p>
-					<ol>
-						<li>Errors, mistakes, or inaccuracies of content;</li>
-						<li>Personal injury or property damage, of any nature whatsoever, resulting from your access to and use of our service;</li>
-						<li>Any unauthorized access to or use of our secure servers and/or any and all personal information stored therein;</li>
-						<li>4. Any interruption or cessation of transmission to or from the service;</li>
-						<li>Any bugs, viruses, trojan horses, or the like that may be transmitted to or through our service by any third party;</li>
-						<li>Any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the service; and/or</li>
-						<li>User content or the defamatory, offensive, or illegal conduct of any third party.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>Errors, mistakes, or inaccuracies of content;</li>
+					<li>Personal injury or property damage, of any nature whatsoever, resulting from your access to and use of our service;</li>
+					<li>Any unauthorized access to or use of our secure servers and/or any and all personal information stored therein;</li>
+					<li>4. Any interruption or cessation of transmission to or from the service;</li>
+					<li>Any bugs, viruses, trojan horses, or the like that may be transmitted to or through our service by any third party;</li>
+					<li>Any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the service; and/or</li>
+					<li>User content or the defamatory, offensive, or illegal conduct of any third party.</li>
+				</ol>
 
 				<p>In no event shall Company, its affiliates, directors, employees, or licensors be liable to you for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount you paid to Company hereunder.</p>
 
@@ -95,13 +92,11 @@
 
 				<h3>4. Use of Our Service</h3>
 				<p>Company grants you permission to use the Service as set forth in this Agreement, provided that:</p>
-				<p>
-					<ol>
-						<li>You will not copy, distribute, or disclose any part of the Service in any medium;</li>
-						<li>You will not alter or modify any part of the Service other than as may be reasonably necessary to use the Service for its intended purpose; and</li>
-						<li>You will otherwise comply with the terms and conditions of this Agreement.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>You will not copy, distribute, or disclose any part of the Service in any medium;</li>
+					<li>You will not alter or modify any part of the Service other than as may be reasonably necessary to use the Service for its intended purpose; and</li>
+					<li>You will otherwise comply with the terms and conditions of this Agreement.</li>
+				</ol>
 
 				<p>You do not have to register in order to use the Service. To access certain features of the Service, though, you will need to register with Company and create a “Member” account or profile. Your account or profile gives you access to the services and functionality that we may establish and maintain from time to time and in our sole discretion.</p>
 
@@ -112,17 +107,14 @@
 				<p>You agree not to use or launch any automated system, including without limitation, “robots,” “spiders,” “offline readers,” etc. , that accesses the Service in a manner that sends more request messages to the Company servers than a human can reasonably produce in the same period of time by using a conventional on-line web browser, and you agree not to aggregate or collate any of the content available through the Service for use elsewhere. You also agree not to collect or harvest any personally identifiable information, including account or profile names, from the Service nor to use the communication systems provided by the Service for any commercial solicitation purposes.</p>
 
 				<p>Company may permanently or temporarily terminate, suspend, or otherwise refuse to permit your access to the Service without notice and liability, if, in Company’s sole determination, you violate any provision of the Agreement, including by carrying out any of the following prohibited actions:</p>
-
-				<p>
-					<ol>
-						<li> Attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;</li>
-						<li>Taking any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;</li>
-						<li>Uploading invalid data, viruses, worms, or other software agents through the Service;</li>
-						<li>Impersonating another person or otherwise misrepresenting your affiliation with a person or entity, conducting fraud, hiding or attempting to hide your identity;</li>
-						<li>Interfering with the proper working of the Service; or,</li>
-						<li>Bypassing the measures we may use to prevent or restrict access to the Service.</li>
-					</ol>
-				</p>
+				<ol>
+					<li> Attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;</li>
+					<li>Taking any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;</li>
+					<li>Uploading invalid data, viruses, worms, or other software agents through the Service;</li>
+					<li>Impersonating another person or otherwise misrepresenting your affiliation with a person or entity, conducting fraud, hiding or attempting to hide your identity;</li>
+					<li>Interfering with the proper working of the Service; or,</li>
+					<li>Bypassing the measures we may use to prevent or restrict access to the Service.</li>
+				</ol>
 
 				<p>You are solely responsible for your interactions with other Users. We reserve the right, but have no obligation, to monitor disputes between you and other Users. Company shall have no liability for your interactions with other Users, or for any User’s action or inaction.</p>
 
@@ -130,19 +122,16 @@
 				<p>Some areas of the Service may allow Users to create Member accounts or profiles, post feedback, comments, and questions on message boards, send private messages to other Users, and engage in conversation with other Users in chat rooms, as well as post other information (“User Content”).</p>
 
 				<p>You are solely responsible for your User Content that you upload, publish, display, link to or otherwise make available (hereinafter, “post”) on the Service, and you agree that we are only acting as a passive conduit for your online distribution and publication of your User Content.<br/> You agree not to post User Content that:</p>
-
-				<p>
-					<ol>
-						<li>May create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal;</li>
-						<li>May create a risk of any other loss or damage to any person or property;</li>
-						<li>May constitute or contribute to a crime or tort;</li>
-						<li>Contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libelous, threatening, or otherwise objectionable;</li>
-						<li>Contains any information or content that is illegal;</li>
-						<li>Contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or</li>
-						<li>Contains any information or content that you know is not correct and current; or</li>
-						<li>Constitutes “Spam”, advertising, or business related communications.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>May create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal;</li>
+					<li>May create a risk of any other loss or damage to any person or property;</li>
+					<li>May constitute or contribute to a crime or tort;</li>
+					<li>Contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libelous, threatening, or otherwise objectionable;</li>
+					<li>Contains any information or content that is illegal;</li>
+					<li>Contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or</li>
+					<li>Contains any information or content that you know is not correct and current; or</li>
+					<li>Constitutes “Spam”, advertising, or business related communications.</li>
+				</ol>
 
 				<p>You agree that any User Content that you post does not and will not violate third-party rights of any kind, including without limitation any Intellectual Property Rights (as defined below) and rights of publicity and privacy. Company reserves the right, but is not obligated, to reject and/or remove any User Content that Company believes, in its sole discretion, violates these provisions. You understand that publishing your User Content on the Service is not a substitute for registering it with the U.S. Copyright, the Writer’s Guild of America, or any other rights organization.</p>
 
@@ -182,21 +171,16 @@
 				infringement and is accessible via the Service, please notify Company’s copyright agent, as set
 				forth in the Digital Millennium Copyright Act of 1998 (“DMCA”). For your complaint to be
 				valid under the DMCA, you must provide the following information in writing:</p>
+				<ol>
+					<li>An electronic or physical signature of a person authorized to act on behalf of the copyright owner;</li>
+					<li>Identification of the copyrighted work that you claim has been infringed;</li>
+					<li>Identification of the material that is claimed to be infringing and where it is located on the Service;</li>
+					<li>Information reasonably sufficient to permit Company to contact you, such as your address, telephone number, and, e-mail address;</li>
+					<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and</li>
+					<li>A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.</li>
+				</ol>
 
-				<p>
-					<ol>
-						<li>An electronic or physical signature of a person authorized to act on behalf of the copyright owner;</li>
-						<li>Identification of the copyrighted work that you claim has been infringed;</li>
-						<li>Identification of the material that is claimed to be infringing and where it is located on the Service;</li>
-						<li>Information reasonably sufficient to permit Company to contact you, such as your address, telephone number, and, e-mail address;</li>
-						<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and</li>
-						<li>A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.</li>
-					</ol>
-				</p>
-
-				<p>
-				The above information must be submitted to the following DMCA Agent:
-				</p>
+				<p>The above information must be submitted to the following DMCA Agent:</p>
 
 				<p>
 				Evolve Media, LLC<br/>
@@ -208,8 +192,7 @@
 				Facsimile: (310) 449-1891<br/>
 				</p>
 
-				<p>
-				UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.</p>
+				<p>UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.</p>
 
 				<p>Please note that this procedure is exclusively for notifying Company and its affiliates that your copyrighted material has been infringed. The preceding requirements are intended to comply with Company’s rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.</p>
 
@@ -219,12 +202,10 @@
 				<p>You shall be solely responsible for your own User Content and the consequences of posting or
 				publishing it. In connection with User Content, you affirm, represent and warrant, in addition to
 				the other representations and warranties in this Agreement, the following:</p>
-				<p>
-					<ol>
-						<li>Your User Content and Company’s use thereof as contemplated by this Agreement and the Service will not infringe any rights of any third party, including but not limited to any Intellectual Property Rights, privacy rights and rights of publicity.</li>
-						<li>Company may exercise the rights to your User Content granted under this Agreement without liability for payment of any guild fees, residuals, payments, fees, or royalties payable under any collective bargaining agreement or otherwise.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>Your User Content and Company’s use thereof as contemplated by this Agreement and the Service will not infringe any rights of any third party, including but not limited to any Intellectual Property Rights, privacy rights and rights of publicity.</li>
+					<li>Company may exercise the rights to your User Content granted under this Agreement without liability for payment of any guild fees, residuals, payments, fees, or royalties payable under any collective bargaining agreement or otherwise.</li>
+				</ol>
 
 				<h3>14. Third-Party Websites, Advertisers or Services</h3>
 				<p>Company may contain links to third-party websites, advertisers, or services that are not owned or controlled by Company. Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites or services. If you access a third
@@ -234,16 +215,14 @@
 
 				<h3>15. Indemnity</h3>
 				<p>You agree to defend, indemnify and hold harmless Company and its subsidiaries, agents, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from:</p>
-				<p>
-					<ol>
-						<li>Your use of and access to the Service, including any data or work transmitted or received by you;</li>
-						<li>Your violation of any term of this Agreement, including without limitation, your breach of any of the representations and warranties above;</li>
-						<li>Your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights;</li>
-						<li>Your violation of any law, rule or regulation of the United States or any other country;</li>
-						<li>Any claim or damages that arise as a result of any of your User Content or any that are submitted via your account or profile; or</li>
-						<li>Any other party’s access and use of the Service with your unique username, password or other appropriate security code.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>Your use of and access to the Service, including any data or work transmitted or received by you;</li>
+					<li>Your violation of any term of this Agreement, including without limitation, your breach of any of the representations and warranties above;</li>
+					<li>Your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights;</li>
+					<li>Your violation of any law, rule or regulation of the United States or any other country;</li>
+					<li>Any claim or damages that arise as a result of any of your User Content or any that are submitted via your account or profile; or</li>
+					<li>Any other party’s access and use of the Service with your unique username, password or other appropriate security code.</li>
+				</ol>
 
 				<h3>16. Disclaimer with Respect to Content</h3>
 				<p>A variety of information, opinions, advice, recommendations, letters, messages, comments, posts, text, graphics, software, music, sound, photographs, videos, data, and other materials (“Content”) is available on the Site. Some of the Content is provided by Company or its suppliers, and other Content is provided by Users, such as User opinions and views provided via posts to chat rooms, blogs, bulletin boards, or discussion forums. While Company strives to keep the Content that it posts on the Site accurate, complete, and up-to-date, Company cannot guarantee, and is not responsible for, the accuracy, completeness, or timeliness of any Content, whether provided by Company or its suppliers, or by Users of the Site. Any opinions, advice, statements or other information expressed or made available by Users or third parties, including but not limited to bloggers, are those of the respective User or other third party and not of Company. They do not reflect the opinions of company and they have not been reviewed by a physician, psychologist or parenting expert or any member of the Company’s editorial staff for accuracy, balance or objectivity. Company does not endorse and is not responsible for the accuracy or reliability of any opinion, advice or statement made on the Site.</p>
@@ -259,27 +238,19 @@
 
 				<h3>18. General</h3>
 				<h3>19. Governing Law. You agree that:</h3>
-				<p>
-					<ol>
-						<li>The Service shall be deemed solely based in California; and</li>
-						<li>The Service shall be deemed a passive one that does not give rise to personal jurisdiction over Company, either specific or general, in jurisdictions other than California.</li>
-						<li>This Agreement shall be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles. Any claim or dispute between you and Company that arises in whole or in part from the Service shall be decided exclusively by a court of competent jurisdiction located in Los Angeles County, California, unless submitted to arbitration as set forth in the following paragraph.</li>
-					</ol>
-				</p>
+				<ol>
+					<li>The Service shall be deemed solely based in California; and</li>
+					<li>The Service shall be deemed a passive one that does not give rise to personal jurisdiction over Company, either specific or general, in jurisdictions other than California.</li>
+					<li>This Agreement shall be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles. Any claim or dispute between you and Company that arises in whole or in part from the Service shall be decided exclusively by a court of competent jurisdiction located in Los Angeles County, California, unless submitted to arbitration as set forth in the following paragraph.</li>
+				</ol>
 
 				<h3>20. For any claim (excluding claims for injunctive or other equitable relief)</h3>
-				under this
-				Agreement where the total amount of the award sought is less than $10,000, the party
-				requesting relief may elect to resolve the dispute through binding non-appearance-based
-				arbitration. The party electing such arbitration shall initiate the arbitration through an
-				established alternative dispute resolution (“ADR”) provider mutually agreed upon by the
-				parties. The ADR provider and the parties must comply with the following rules:
-				1. The arbitration shall be conducted by telephone, online and/or be solely based on
-				written submissions, as selected by the party initiating the arbitration;
-				2. The arbitration shall not involve any personal appearance by the parties or
-				witnesses unless otherwise mutually agreed by the parties; and
-				3. Any judgment on the award rendered by the arbitrator may be entered in any court
-				of competent jurisdiction.
+				<p>under this Agreement where the total amount of the award sought is less than $10,000, the party requesting relief may elect to resolve the dispute through binding non-appearance-based arbitration. The party electing such arbitration shall initiate the arbitration through an established alternative dispute resolution (“ADR”) provider mutually agreed upon by the parties. The ADR provider and the parties must comply with the following rules:</p>
+				<ol>
+					<li>The arbitration shall be conducted by telephone, online and/or be solely based on written submissions, as selected by the party initiating the arbitration;</li>
+					<li>The arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and
+					<li>Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.</li>
+				</li>
 
 				<h3>21. Notification Procedures.</h3>
 				<p>Company may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via
