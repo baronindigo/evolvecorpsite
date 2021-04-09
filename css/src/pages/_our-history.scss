@@ -1,5 +1,6 @@
 .our-history-section {
 	background: linear-gradient(135deg, $color-submain 0%, #00538f 50%);
+	text-align: center;
 
 	@include tablet {
 		background: transparent;

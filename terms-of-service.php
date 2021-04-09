@@ -33,17 +33,33 @@
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
 </head>
-<body>
+<body class="terms-of-service">
 
 <div class="wrapper">
 	
 	<header>
 		<div class="header-container">
-			<a href="/"><img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo"></a>
+			<img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo">
+			<div class="burger" onclick="burger_menu()">
+				<div class="lines"></div>
+			</div>
+		</div>
+		
+		<div class="overlay-header">
+			<div class="overlay-background"></div>
+			<div class="overlay-menu">
+				<ul>
+					<li><a class="home" href="#">Home</a></li>
+					<li><a class="our-brands" href="#our-brands">Our Brands</a></li>
+					<li><a class="our-history" href="#our-history">Our History</a></li>
+					<li><a class="our-leadership" href="#our-leadership">Our Leadership</a></li>
+					<li><a class="contact-us" href="#contact-us">Contact Us</a></li>
+				</ul>
+			</div>
 		</div>
 	</header>
 
-	<div class="terms-of-service">
+	<div class="terms-of-service-container">
 
 		<h2 class="headline">Terms of Service</h2>
 

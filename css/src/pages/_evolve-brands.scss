@@ -1,4 +1,4 @@
-.evolve-brands {
+.evolve-brands-container {
   text-align: center;
 
   .homepage-main-image {
@@ -81,16 +81,28 @@
   }
 }
 
-.privacy-policy,
-.terms-of-service {
-  padding: 0 5% 0;
+.privacy-policy-container,
+.terms-of-service-container {
+	padding: 30px 5% 0;
 
-  @include tablet {
-    padding: 0 5% 0;
-  }
+	section {
+		padding: 0;
+	}
+
+	@include tablet {
+		padding: 80px 5% 0;
+	}
 
   .cta-btn {
     text-align: center;
     width: 100%;
   }
+}
+
+.evolve-brands,
+.privacy-policy,
+.terms-of-service {
+	.burger {
+		visibility: hidden;
+	}
 }

@@ -33,17 +33,33 @@
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/dist/main.css"/>
 </head>
-<body>
+<body class="privacy-policy">
 
 <div class="wrapper">
 	
 	<header>
 		<div class="header-container">
-			<a href="/"><img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo"></a>
+			<img src="images/evolve-logo-white.svg" class="header-logo" alt="Evolve Media LLC logo">
+			<div class="burger" onclick="burger_menu()">
+				<div class="lines"></div>
+			</div>
+		</div>
+		
+		<div class="overlay-header">
+			<div class="overlay-background"></div>
+			<div class="overlay-menu">
+				<ul>
+					<li><a class="home" href="#">Home</a></li>
+					<li><a class="our-brands" href="#our-brands">Our Brands</a></li>
+					<li><a class="our-history" href="#our-history">Our History</a></li>
+					<li><a class="our-leadership" href="#our-leadership">Our Leadership</a></li>
+					<li><a class="contact-us" href="#contact-us">Contact Us</a></li>
+				</ul>
+			</div>
 		</div>
 	</header>
 
-	<div class="privacy-policy">
+	<div class="privacy-policy-container">
 
 		<h2 class="headline">Privacy Policy</h2>
 
@@ -51,7 +67,10 @@
 			
 			<div>
 				<p>This privacy policy was last modified on January 10, 2021 (the “Effective Date”).
-				Evolve Media, LLC company (&quot;our,&quot; &quot;we,&quot; or &quot;us&quot;) maintains <a href="https://mandatory.com" target="_blank">www.mandatory.com</a>, <a href="https://sherdog.com" target="_blank">www.sherdog.com</a>, <a href="https://mandatory.com/wrestlezone" target="_blank">www.wrestlezone.com</a>, <a href="https://www.gamerevolution.com" target="_blank">www.gamerevolution.com</a>, <a href="https://www.comingsoon.net" target="_blank">www.comingsoon.net</a>, <a href="https://www.playstationlifestyle.net" target="_blank">www.playstationlifestyle.net</a>, <a href="https://www.superherohype.com" target="_blank">www.superherohype.com</a>, <a href="https://www.liveoutdoors.com" target="_blank">www.liveoutdoors.com</a>, <a href="https://www.musicfeeds.com.au" target="_blank">www.musicfeeds.com.au</a>, <a href="https://hfboards.mandatory.com/" target="_blank">hockeysfuture.com</a> and related mobile websites, mobile applications (&quot;mobile apps&quot;), services, tools, and other applications (collectively, the &quot;Site&quot; or “Services”).</p>
+				Evolve Media, LLC company (&quot;our,&quot; &quot;we,&quot; or &quot;us&quot;) maintains <a href="https://mandatory.com" target="_blank">www.mandatory.com</a>, <a href="https://sherdog.com" target="_blank">www.sherdog.com</a>, <a href="https://mandatory.com/wrestlezone" target="_blank">www.wrestlezone.com</a>, <a href="https://www.gamerevolution.com" target="_blank">www.gamerevolution.com</a>, <a href="https://www.comingsoon.net" target="_blank">www.comingsoon.net</a>, <a href="https://www.playstationlifestyle.net" target="_blank">www.playstationlifestyle.net</a>, <a href="https://www.superherohype.com" target="_blank">www.superherohype.com</a>, <a href="https://www.liveoutdoors.com" target="_blank">www.liveoutdoors.com</a>, <a href="https://www.musicfeeds.com.au" target="_blank">www.musicfeeds.com.au</a>, <a href="https://hfboards.mandatory.com/" target="_blank">hockeysfuture.com</a>, <a href="https://www.momtastic.com" target="_blank">www.momtastic.com</a>, <a href="https://www.thefashionspot.com" target="_blank">www.thefashionspot.com</a>,
+				<a href="https://www.realitytea.com" target="_blank">www.realitytea.com</a>, <a href="https://www.totalbeauty.com" target="_blank">www.totalbeauty.com</a>, <a href="https://babyandbump.momtastic.com/" target="_blank">babyandbump.com</a>, <a href="http://www.pregnancyforum.com/" target="_blank">pregnancyforum.com</a>,
+				<a href="https://www.dogtime.com" target="_blank">www.dogtime.com</a>, <a href="https://www.cattime.com" target="_blank">www.cattime.com</a>, <a href="https://webecoist.momtastic.com/" target="_blank">www.webecoist.co</a>, <a href="https://wholesomebabyfood.momtastic.com/" target="_blank">www.wholesomebabyfood.com</a>,
+				<a href="https://www.beautyriot.com" target="_blank">www.beautyriot.com</a>, <a href="https://awards.totalbeauty.com" target="_blank">awards.totalbeauty.com</a> and related mobile websites, mobile applications (&quot;mobile apps&quot;), services, tools, and other applications (collectively, the &quot;Site&quot; or “Services”).</p>
 
 				<p>We take your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com.</a></p>
 
